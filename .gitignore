@@ -1,0 +1,6 @@
+.vs/*
+Debug/*
+!Debug/freeglut.dll
+proyek-akhir/*
+*.filters
+*.user
